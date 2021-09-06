@@ -1,5 +1,8 @@
 a = Time.now
 =begin
+
+https://ruby-doc.org/core-3.0.2/Time.html
+
 puts a
 gets
 b = Time.new(2001, 9, 4, 2, 2, 2, "+02:00")
